@@ -1,0 +1,11 @@
+h1{
+    color: purple
+}
+
+body{
+    display: flex;
+}
+#nav{
+    min-width: 150px;
+    background-color: rgb(3,127,255);
+}
