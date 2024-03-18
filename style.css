@@ -1,6 +1,7 @@
 h1{
     color: purple;
 }
+<<<<<<< HEAD
 body{
     display: flex;
 }
@@ -9,3 +10,13 @@ body{
     min-width: 200px;
     background-color: bisque;
 }
+=======
+
+body{
+    display:flex;
+}
+#nav{
+    min-width: 200px;
+    background-color: bisque;
+}
+>>>>>>> 616a226afc3f49d1dadde050efcc06789cad2ead
